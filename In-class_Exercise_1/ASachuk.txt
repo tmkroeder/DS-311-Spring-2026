@@ -1,0 +1,3 @@
+Ana Sachuk
+DS 311 – Spring 2026
+First Git commit
